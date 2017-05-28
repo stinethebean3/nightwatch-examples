@@ -13,6 +13,12 @@ In order to create your own Nightwatch project, feel free to "fork" or copy
 these files to get you started and adjust "test.js" to write tests for your
 own projects. 
 
+## Dependencies ##
+* Java
+* node.js
+* npm
+* firefox
+
 ## Set-up ##
 
 1. Clone repo 
