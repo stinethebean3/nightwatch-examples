@@ -1,0 +1,23 @@
+{
+  "name": "nightwatch-examples",
+  "version": "1.0.0",
+  "description": "Examples of using Nightwatch.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/nightwatch/bin/nightwatch -t test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stinethebean3/nightwatch-examples.git"
+  },
+  "author": "Christine Vick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stinethebean3/nightwatch-examples/issues"
+  },
+  "homepage": "https://github.com/stinethebean3/nightwatch-examples#readme",
+  "dependencies": {
+    "nightwatch": "^0.9.15",
+    "selenium-standalone": "^6.4.1"
+  }
+}
